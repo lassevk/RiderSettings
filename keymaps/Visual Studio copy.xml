@@ -1,0 +1,10 @@
+<keymap version="1" name="Visual Studio copy" parent="Visual Studio">
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="alt back_slash" />
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+    <keyboard-shortcut first-keystroke="alt u" />
+  </action>
+</keymap>
