@@ -1,6 +1,6 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="&quot;cmd.exe&quot; /k &quot;c:\dropbox\tools\cmder\vendor\init.bat&quot;" />
+    <option name="myShellPath" value="&quot;cmd.exe&quot; /k set RIDER_CONSOLE=1 &amp; &quot;%CMDER_ROOT%\vendor\init.bat&quot;" />
     <option name="myTabName" value="Cmder" />
   </component>
 </application>
