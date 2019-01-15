@@ -1,7 +1,9 @@
 <keymap version="1" name="Visual Studio copy" parent="Visual Studio">
   <action id="FileStructurePopup">
-    <keyboard-shortcut first-keystroke="alt back_slash" />
     <keyboard-shortcut first-keystroke="alt g" />
+  </action>
+  <action id="ReSharperNavigateTo">
+    <keyboard-shortcut first-keystroke="alt back_slash" />
   </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="r" />
