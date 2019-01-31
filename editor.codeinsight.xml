@@ -7,5 +7,6 @@
   <component name="RiderCodeCompletionExtraSettings">
     <option name="alwaysCompleteWithEnter" value="true" />
     <option name="hasNotifiedAboutCompletingWithEnter" value="true" />
+    <option name="parenthesesInsertType" value="None" />
   </component>
 </application>
