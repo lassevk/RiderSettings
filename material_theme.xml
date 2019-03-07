@@ -2,7 +2,10 @@
   <component name="MaterialThemeConfig">
     <option name="allowDataCollection" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="selectedTheme" value="MONOKAI" />
+    <option name="pristineConfig" value="false" />
+    <option name="useMaterialFont2" value="true" />
+    <option name="settingsSelectedTab" value="6" />
+    <option name="selectedTheme" value="ONE_DARK" />
     <option name="userId" value="1b60715b:16958163684:-8000" />
     <option name="version" value="3.5.0.1" />
   </component>
