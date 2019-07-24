@@ -12,5 +12,7 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
+    <mask>*.sql</mask>
+    <mask>*.cs</mask>
   </component>
 </application>
