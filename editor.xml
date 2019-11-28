@@ -9,7 +9,6 @@
     <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
   </component>
   <component name="TodoConfiguration">
-    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;GAT[PW]-\d+)(\W|$)(.*)" />
     <pattern pattern="\bNotImplementedException\b" />
     <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)" />
     <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*)" />
