@@ -84,9 +84,6 @@
     </nesting-rules>
   </component>
   <component name="UISettings">
-    <option name="ANIMATE_WINDOWS" value="false" />
     <option name="MAX_LOOKUP_WIDTH2" value="1000" />
-    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
-    <option name="smoothScrolling" value="true" />
   </component>
 </application>
