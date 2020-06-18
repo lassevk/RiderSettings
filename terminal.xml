@@ -1,6 +1,6 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="&quot;cmd.exe&quot; /k set RIDER_CONSOLE=1 &amp; &quot;%CMDER_ROOT%\vendor\init.bat&quot;" />
-    <option name="myTabName" value="Cmder" />
+    <option name="myShellPath" value="&quot;pwsh.exe&quot; -nologo" />
+    <option name="myTabName" value="Powershell" />
   </component>
 </application>
