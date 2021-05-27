@@ -39,5 +39,6 @@
     <entry key="caches.indexerThreadsCount" value="2" />
     <entry key="caches.scanningThreadsCount" value="2" />
     <entry key="git.parallel.fetch.threads" value="2" />
+    <entry key="vcs.enable.add.ignored.directories.to.exclude" value="false" />
   </component>
 </application>
