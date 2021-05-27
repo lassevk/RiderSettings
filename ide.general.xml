@@ -36,5 +36,8 @@
     <entry key="ide.new.project.model" value="false" />
     <entry key="ide.mac.bigsur.window.with.tabs.enabled" value="false" />
     <entry key="ea.enable.developers.list" value="false" />
+    <entry key="caches.indexerThreadsCount" value="2" />
+    <entry key="caches.scanningThreadsCount" value="2" />
+    <entry key="git.parallel.fetch.threads" value="2" />
   </component>
 </application>
