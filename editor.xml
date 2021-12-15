@@ -11,11 +11,6 @@
     <option name="AUTOINSERT_PAIR_BRACKET" value="false" />
     <option name="AUTOINSERT_PAIR_QUOTE" value="false" />
   </component>
-  <component name="DefaultFont">
-    <option name="FONT_SIZE" value="15" />
-    <option name="FONT_FAMILY" value="Consolas" />
-    <option name="USE_LIGATURES" value="true" />
-  </component>
   <component name="EditorSettings">
     <option name="STRIP_TRAILING_SPACES" value="None" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
