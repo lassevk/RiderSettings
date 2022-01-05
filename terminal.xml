@@ -1,6 +1,0 @@
-<application>
-  <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="&quot;pwsh.exe&quot; -nologo" />
-    <option name="myTabName" value="Powershell" />
-  </component>
-</application>
