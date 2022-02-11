@@ -6,6 +6,9 @@
     <keyboard-shortcut first-keystroke="alt insert" />
     <keyboard-shortcut first-keystroke="ctrl alt v" />
   </action>
+  <action id="GlobalJson.ManageNetCoreSdkForProjectAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt f12" />
+  </action>
   <action id="ReSharperNavigateTo">
     <keyboard-shortcut first-keystroke="alt back_slash" />
   </action>
@@ -18,4 +21,5 @@
     <keyboard-shortcut first-keystroke="ctrl t" />
     <keyboard-shortcut first-keystroke="alt u" />
   </action>
+  <action id="ShowSettingsAndFindUsages" />
 </keymap>
