@@ -12,16 +12,9 @@
     <entry key="ide.borderless.title.project.path" value="false" />
     <entry key="ide.borderless.title.classpath" value="false" />
     <entry key="ide.borderless.title.product" value="false" />
-    <entry key="ide.borderless.title.debug" value="true" />
-    <entry key="ide.title.debug" value="true" />
-    <entry key="vcs.log.show.diff.preview.as.editor.tab" value="true" />
     <entry key="rdclient.asyncActions" value="false" />
-    <entry key="ide.tree.expand.navigatable.on.double.click.disabled" value="true" />
-    <entry key="use.tabbed.welcome.screen" value="false" />
-    <entry key="ide.new.project.model" value="false" />
-    <entry key="ide.mac.bigsur.window.with.tabs.enabled" value="false" />
-    <entry key="caches.indexerThreadsCount" value="2" />
-    <entry key="caches.scanningThreadsCount" value="2" />
-    <entry key="git.parallel.fetch.threads" value="2" />
+    <entry key="show.log.as.editor.tab" value="false" />
+    <entry key="vcs.log.show.diff.preview.as.editor.tab" value="true" />
+    <entry key="rider.enable.designer.winForms" value="true" />
   </component>
 </application>

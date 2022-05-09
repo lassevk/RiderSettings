@@ -6,17 +6,14 @@
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="groovy" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="php" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="php4" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="php5" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="phtml" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="proto" approved="true" type="PROTO" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping ext="swift" approved="true" type="PLAIN_TEXT" />
-      <mapping pattern="*.js.flow" type="Flow" />
     </extensionMap>
   </component>
 </application>
