@@ -15,6 +15,5 @@
     <entry key="rdclient.asyncActions" value="false" />
     <entry key="show.log.as.editor.tab" value="false" />
     <entry key="vcs.log.show.diff.preview.as.editor.tab" value="true" />
-    <entry key="rider.enable.designer.winForms" value="true" />
   </component>
 </application>
